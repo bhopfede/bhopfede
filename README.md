@@ -1,13 +1,7 @@
-### Hello there 👋
-
----
-
 ## 🚀 Current Projects
 
 - **[vSeries Community](https://discord.gg/vseries)**  
   <small>🌊 Owner</small>
-
----
 
 ## 📜 Past Projects
 - **CloudyPvP Network**  
@@ -23,20 +17,14 @@
 - **Aurora Network (Current)**  
   <small>Owner & Head Developer</small>
   
----
-
 ## 🛠️ Languages & Tools
 
 [![Languages](https://skillicons.dev/icons?i=java,kotlin,mongodb,redis,linux,github)](https://skillicons.dev)
-
----
 
 ## 💬 Contact Me
 
 - **Discord**: `oddfede`
 - **GitHub**: [Click HERE](https://github.com/bhopfede)
-
----
 
 <div align="center">
   <h3>Thank you for visiting my profile! 🚀</h3>
