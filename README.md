@@ -14,6 +14,8 @@
   <small>Owner & Config</small>
 - **SoupLand Network**  
   <small>Owner, Developer & Config</small>
+- **Ghostly.live Network**  
+  <small>External Help</small>
 - **Aurora Network (Current)**  
   <small>Owner & Head Developer</small>
   
