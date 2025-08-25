@@ -21,7 +21,7 @@
   
 ## Languages & Tools
 
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,mongodb,redis,linux,github)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,mongodb,redis,github)](https://skillicons.dev)
 
 ## Contact Me
 
