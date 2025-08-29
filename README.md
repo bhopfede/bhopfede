@@ -26,6 +26,5 @@
 ## Contact Me
 
 - **Discord**: `oddfede`
-- **GitHub**: [Click HERE](https://github.com/bhopfede)
 
 ![](https://komarev.com/ghpvc/?username=bhopfede&color=006619)
